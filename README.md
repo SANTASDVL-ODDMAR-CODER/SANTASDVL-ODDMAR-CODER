@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santasdvl-oddmar-coder&label=Profile%20views&color=0e75b6&style=flat" alt="santasdvl-oddmar-coder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/santasdvl" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/santasdvl?logo=twitter&style=for-the-badge" alt="https://x.com/santasdvl" /></a> </p>
-
 - 🌱 I’m currently learning advance **Python, javascript frameworks**
 
 - 💬 Ask me about **Termux, termux x11, termux proot-distro any thing, app and repository all so**
@@ -12,6 +10,8 @@
 - 📫 How to reach me **narenmondal875@gmail.com**
 
 - ⚡ Fun fact **We are the linux user**
+
+- 🔥 Connect with me x handel "https://x.com/santasdvl"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
