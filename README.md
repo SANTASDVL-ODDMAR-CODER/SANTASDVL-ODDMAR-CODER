@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **We are the linux user**
 
-- 🔥 Connect with me x handel "https://x.com/santasdvl"
+- 🔥 Connect with me x hande **https://x.com/santasdvl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
