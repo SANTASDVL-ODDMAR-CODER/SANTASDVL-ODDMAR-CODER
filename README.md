@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cfc45edc-f246-4eb7-a61a-7457d9c653c6)
+ ![image](https://github.com/user-attachments/assets/954d97be-a883-4b93-a563-f5e3f8d26a38)
 <h1 align="center">Hi 👋, I'm SANTASDVL-ODDMAR-CODER</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
