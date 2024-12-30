@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f92ba6f5-289d-415d-ad9a-ac1a0e907780)
+![image](https://wallpaperaccess.com/full/5927911.gif)
 
 <h1 align="center">Hi 👋, I'm SANTASDVL-ODDMAR-CODER</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
