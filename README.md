@@ -13,15 +13,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SANTASDVL-ODDMAR-CODER](https://github.com/SANTASDVL-ODDMAR-CODER)
 
-- ❌ My "X handle" [https://x.com/gamejam808](https://x.com/gamejam808)
+- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
-- 💬 Ask me about **Unemployed man 🫴**
+- ❌ My "X handle" [https://x.com/gamejam808](https://x.com/gamejam808)
 
 - 📫 How to reach me **narenmondal875@gmail.com**
 
-- ⚡ Fun fact **I think I'm crazy**
+- 💬 Ask me about **Unemployed man 🫴**
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+- ⚡ Fun fact **I think I'm crazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
