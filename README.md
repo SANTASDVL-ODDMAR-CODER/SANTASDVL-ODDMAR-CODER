@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm SANTASDVL-ODDMAR-CODER</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santasdvl-oddmar-coder&label=Profile%20views&color=0e75b6&style=flat" alt="santasdvl-oddmar-coder" /> </p>
+
 - 🔭 I’m currently working on **AI 👌**
 
 - 🌱 I’m currently learning **AI Frameworks, for every thinks 👌**
