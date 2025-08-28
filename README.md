@@ -1,15 +1,7 @@
-![image](https://wallpaperaccess.com/full/5927911.gif)
-
 <h1 align="center">Hi 👋, I'm SANTASDVL-ODDMAR-CODER</h1>
-<h3 align="center">SANTASDVL-ODDMAR-CODER</h3>
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santasdvl-oddmar-coder&label=Profile%20views&color=0e75b6&style=flat" alt="santasdvl-oddmar-coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santasdvl-oddmar-coder" alt="santasdvl-oddmar-coder" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gamejam808" target="blank"><img src="https://img.shields.io/twitter/follow/gamejam808?logo=twitter&style=for-the-badge" alt="gamejam808" /></a> </p>
 
 - 🔭 I’m currently working on **AI 👌**
 
